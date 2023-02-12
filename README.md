@@ -1,27 +1,27 @@
-![NOME](./public/thumb.png)
+![NAME](./public/thumb.png)
 
-# NOME
-### DESCRICAO
+# NAME
+### DESCRIPTION
 
-## Comandos
-- Clona o repositório.
+## Comands
+- Clone the repository.
 ``` bash
 git clone git@github.com:chrissgon/repo.git
 ```
-- Instala dependências.
+- Install dependencies.
 ``` bash
 npm i
 ```
-- Executa aplicação.
+- Run application.
 ``` bash
 npm run dev
 ```
 
-## Anotações
-Aplicação hospedada em <a href="http://localhost:3000/">http://localhost:3000/</a>.
+## Anotations
+Application hosted in <a href="http://localhost:3000/">http://localhost:3000/</a>.
 
-## Referências
+## References
 - [Referencia](https://google.com)
 
 ---
-Desenvolvido por [Christopher Gonçalves](https://github.com/chrissgon)
+Developed by [Christopher Gonçalves](https://github.com/chrissgon)
