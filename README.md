@@ -21,7 +21,7 @@ npm run dev
 Application hosted in <a href="http://localhost:3000/">http://localhost:3000/</a>.
 
 ## References
-- [Referencia](https://google.com)
+- [Reference](https://google.com)
 
 ---
 Developed by [Christopher Gonçalves](https://github.com/chrissgon)
