@@ -8,13 +8,13 @@
 ``` bash
 git clone git@github.com:chrissgon/repo.git
 ```
-- Install dependencies.
+- Install packages.
 ``` bash
-npm i
+pnpm i
 ```
 - Run application.
 ``` bash
-npm run dev
+pnpm run dev
 ```
 
 ## Anotations
