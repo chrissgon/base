@@ -14,11 +14,11 @@ pnpm i
 ```
 - Run application.
 ``` bash
-pnpm run dev
+pnpm dev
 ```
 - Run tests.
 ``` bash
-pnpm tests
+pnpm test
 ```
 - Run coverage tests.
 ``` bash
