@@ -16,6 +16,14 @@ pnpm i
 ``` bash
 pnpm run dev
 ```
+- Run tests.
+``` bash
+pnpm tests
+```
+- Run coverage tests.
+``` bash
+pnpm test:cov
+```
 
 ## Anotations
 Application hosted in <a href="http://localhost:3000/">http://localhost:3000/</a>.
