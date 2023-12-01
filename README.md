@@ -4,7 +4,7 @@
 
 Description.
 
-## ❗ Requirements
+## ⚠️ Requirements
 
 This project requires the ... installed.
 
@@ -40,7 +40,7 @@ When you run this project, you need set the following environment variables:
 
 - `XXXXX`: description.
 
-## 📚 Anotations
+## 📝 Anotations
 
 Application hosted in <a href="http://localhost:3000/">http://localhost:3000/</a>.
 
