@@ -4,6 +4,11 @@
 
 Description.
 
+## 🌍 Translations
+
+- [English](https://github.com/chrissgon/myrepo/blob/main/README.md)
+- [Português Brasileiro](https://github.com/chrissgon/myrepo/blob/main/README-pt-BR.md)
+
 ## ⚠️ Requirements
 
 This project requires the ... installed.
@@ -13,7 +18,7 @@ This project requires the ... installed.
 - Clone the repository.
 
 ```bash
-git clone git@github.com:chrissgon/repo.git
+git clone git@github.com:chrissgon/myrepo.git
 ```
 
 ## 🚀 Quick Start
